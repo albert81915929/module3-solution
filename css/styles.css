@@ -1,0 +1,65 @@
+body{
+	background-color: #ffc324;
+}
+
+#navbar{
+	background-color: yellow;
+	border: 0;
+
+}
+
+#navbar-container{
+
+margin: 0px;
+
+}
+
+.navbar-default .navbar-brand{/* Food LLC.*/
+	font-weight: bold;
+	text-align: left;
+  	vertical-align: middle;
+	color: purple;
+}
+button{
+	text-align: right;
+}
+#nav-list{
+	text-align: center;
+	text-decoration-color: blue;
+	font-weight: bold;
+	font-size: 2em;
+
+}
+#collapsable-nav{
+	
+}
+.navbar-default .navbar-nav>.active>a{
+	background-color: #c3cdcc;
+	border: 1px solid #6137cc;
+	}
+
+#main-content{
+	height: 1000px;
+	background-color: purple;
+	color: white;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	border-radius: 20px;
+}
+h1{
+	font-size: 50px;
+}
+
+h2{
+	font-size: 2.0em;
+	text-align: center;
+
+}
+p{
+	font-size: 1.0em;
+	font-style: italic;
+	padding-left: 20px;
+	padding-right: 20px;
+	
+}
